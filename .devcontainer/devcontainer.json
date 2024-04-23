@@ -1,0 +1,5 @@
+{"ghcr.io/devcontainers-contrib/features/node-asdf:0": {}
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
